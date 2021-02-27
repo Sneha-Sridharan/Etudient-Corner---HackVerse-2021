@@ -8,7 +8,9 @@
 - Students can also chat with any other registered student
 
 # Tech Stack
-- Flutter
-- Firebase
+- HTML
+- CSS
+- JS
+- PHP
 
 # Installation steps
